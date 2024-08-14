@@ -13,9 +13,13 @@ Functions:
 📝 Tasks - Do tasks and earn points You are getting:
 
 A configured bot that is already working Basic functional (mine-tap / boosts / refferals / tasks) Minor design adjustments (change styles / logos) 
+
 Source code Example Clicker https://t.me/tswap_app_bot
+
 You can try the starting version of the bot including the basic functionality: https://t.me/tswap_app_bot
+
 We can install ready-made solutions for you, or make you a unique clicker with a unique design. 
+
 Contact : https://t.me/chris_lev11
 
 CENPHA: We always work for results Attention to target audience Presence on the most important platforms of the crypto industry Our company Verified Bybit, Pinksale & OKX Partner
